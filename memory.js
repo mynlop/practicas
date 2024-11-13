@@ -391,7 +391,7 @@ function checkForMatch() {
             secondCard.classList.add('hidden');
             firstCard = null;
             secondCard = null;
-        }, 1000);
+        }, 400);
     }
 }
 
